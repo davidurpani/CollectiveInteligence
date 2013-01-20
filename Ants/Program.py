@@ -7,7 +7,6 @@ import random
 from PIL import *
 import PIL  # to interface Python Imaging Library with Tkinter
 from Simulation import *
-from Ant import *
 from Simulation_Control import *
 from Draw_Area import *
 from Generic_Main_Frame import *
